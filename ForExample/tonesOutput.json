@@ -1,0 +1,93 @@
+{
+    "document_tone": {
+      "tones": [
+        {
+          "score": 0.704646,
+          "tone_id": "joy",
+          "tone_name": "Joy"
+        }
+      ]
+    },
+    "sentences_tone": [
+      {
+        "sentence_id": 0,
+        "text": "yes Well, my name is darshee, i am a CS graduate.",
+        "tones": []
+      },
+      {
+        "sentence_id": 1,
+        "text": "I love challenges and i would love to learn new things going ahead.",
+        "tones": [
+          {
+            "score": 0.875573,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.589295,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 2,
+        "text": "proceed I really admire what this company stands for and i want to see myself be a part of its workforce.",
+        "tones": []
+      },
+      {
+        "sentence_id": 3,
+        "text": "It can help me achieve my goals and i believe i can be of value to this esteemed organization.",
+        "tones": [
+          {
+            "score": 0.68417,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          },
+          {
+            "score": 0.525007,
+            "tone_id": "tentative",
+            "tone_name": "Tentative"
+          }
+        ]
+      },
+      {
+        "sentence_id": 4,
+        "text": "proceed I would say that my greatest strengths include team work and multitasking, my weaknesses would be my shy nature, that might hold me back from voicing my opinions.",
+        "tones": []
+      },
+      {
+        "sentence_id": 5,
+        "text": "proceed My dream job would be an endeavor that would allow me to try new things, tackle fresh challenges and work with good, enthusiastic and passionate people.",
+        "tones": [
+          {
+            "score": 0.766679,
+            "tone_id": "joy",
+            "tone_name": "Joy"
+          }
+        ]
+      },
+      {
+        "sentence_id": 6,
+        "text": "proceed I believe that i am a fast learner and a very passionate employee.",
+        "tones": [
+          {
+            "score": 0.560098,
+            "tone_id": "analytical",
+            "tone_name": "Analytical"
+          }
+        ]
+      },
+      {
+        "sentence_id": 7,
+        "text": "I will excel at the tasks handed to me and i am sure i will prove to be a valuable asset to this company.",
+        "tones": [
+          {
+            "score": 0.704642,
+            "tone_id": "confident",
+            "tone_name": "Confident"
+          }
+        ]
+      }
+    ]
+  }
